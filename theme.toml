@@ -2,7 +2,7 @@ name = "MyBlog"
 license = "MIT"
 licenselink = "https://github.com/wisnuwiry/hugo-personal-site/blob/master/LICENSE"
 description = "Hugo theme for Personal Site, and Portfolio"
-homepage = "https://wisnuwiry.space"
+homepage = "/"
 tags = [
   "blog",
   "clean",
@@ -37,5 +37,5 @@ features = [
 min_version = "0.41.0"
 
 [author]
-  name = "Wisnu G. Saputra"
-  homepage = "https://wisnuwiry.space"
+  name = "Kasafaurin"
+  homepage = "/"
